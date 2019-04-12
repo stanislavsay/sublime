@@ -1,4 +1,7 @@
-#My note
+### MY NOTE
+
+_Проверка markdown_
+
 Про загрузку множественных файлов:
 ```javascript
 function MultipleFiles(array $_files, $top = TRUE)
